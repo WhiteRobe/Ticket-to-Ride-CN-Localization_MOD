@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- THIS FILE WILL BE COPIED IN ALL PROJECTS -->
+
+    <!-- Game Screen -->
+    <string key="MessageBox_Yes">是</string>
+    <string key="MessageBox_No">不</string>
+    <string key="MessageBox_OK">好的</string>
+    <string key="MessageBox_Cancel">取消</string>
+
+    <!-- Duration Formatter -->
+    <string key="NbDays_Format">%d 天</string>
+    <string key="NbDays_ShortFormat">%d 天</string>
+    <string key="NbHours_Format">%d 小时</string>
+    <string key="NbHours_ShortFormat">%d 时</string>
+    <string key="NbMinutes_Format">%d 分钟</string>
+    <string key="NbMinutes_ShortFormat">%d 分</string>
+    <string key="NbSeconds_Format">%d 秒钟</string>
+    <string key="NbSeconds_ShortFormat">%d 秒</string>
+
+    <!-- Invitation -->
+    <string key="InvitationDialog_Title">在线游戏邀战函</string>
+    <string key="InvitationDialog_Message">%s 准备在 %d 名玩家的在线游戏中挑战您。</string>
+    <string key="InvitationDialog_Decline_Button">拒绝</string>
+    <string key="InvitationDialog_See_Button">查看详细</string>
+    <string key="InvitationDialog_Accept_Button">接受</string>
+
+    <!-- No internet connection message -->
+    <string key="NoInternetConnection_Title">无网络连接</string>
+    <string key="NoInternetConnection_Message">需要连接网络.</string>
+
+    <string key="OnlineServerDidNotRespond_Title">连线错误</string>
+    <string key="OnlineServerDidNotRespond_Message">无网络连接.请检查网络连接是否正常.</string>
+    
+    <!-- Game Center messages -->
+    <string key="GameCenterAuthentication_Title">连接到游戏中心</string>
+    <string key="GameCenterAuthentication_CanceledMessage">您决定不连接到游戏中心.因此无法启动在线功能.
+请连接游戏中心并登陆.</string>
+    <string key="GameCenterAuthentication_FailedMessage">连接失败.
+请连接游戏中心并重新尝试登陆.</string>
+
+    <string key="OnlinePlay_CheckVersion_Title">游戏需要更新</string>
+    <string key="OnlinePlay_CheckVersion_MessageFormat">您的游戏需要更新 (当前版本: %s, 最新版本: %s)</string>
+
+</strings>

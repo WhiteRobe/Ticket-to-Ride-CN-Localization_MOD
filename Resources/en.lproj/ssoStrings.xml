@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <string key="ConnectionError_Title">连接异常</string>
+
+    <string key="SSOController_Title">登陆服务器</string>
+
+    <string key="SigninInProgressPanel_LabelFormat">验证中... %s</string>
+
+    <string key="MessageBox_SkipButton">跳过</string>
+    <string key="MessageBox_BackButton">返回</string>
+    
+    <string key="AlreadyPlayedPanel_Title">Played Online before?</string>
+    <string key="AlreadyPlayedPanel_Message">Do you already have a
+Days of Wonder Online account?</string>
+    <string key="AlreadyPlayedPanel_SubMessage">We'll help you find your account</string>
+    
+    <string key="LoginPanel_Title">Login</string>
+    <string key="LoginPanel_Message">Please enter your login or
+e-mail address</string>
+    <string key="LoginPanel_LoginEmailInvalid_Message">Invalid login or e-mail</string>
+    <string key="LoginPanel_Placeholder">Login or e-mail</string>
+
+    <string key="PasswordPanel_Title">Password</string>
+    <string key="PasswordPanel_Message">We found your account.
+Let's login with it.</string>
+    <string key="PasswordPanel_PasswordInvalid_Message">Invalid password</string>
+    <string key="PasswordPanel_Placeholder">Password</string>
+    <string key="PasswordPanel_Forgot_Button">Forgot your password?</string>
+    <string key="PasswordPanel_EmailSent_Message">We sent you an e-mail. Please follow the instructions</string>
+    
+    <string key="LinkPanel_Title">Accounts Linked</string>
+    
+    <string key="WelcomePanel_Title">Welcome to Days of Wonder Online!</string>
+    <string key="WelcomePanel_Placeholder">e-mail</string>
+    <string key="WelcomePanel_SubMessage">We'll keep your e-mail confidential.</string>
+    
+    <string key="AskEmailPanel_Title">Receive your Password</string>
+    <string key="AskEmailPanel_Placeholder">Enter your email address here</string>
+    <string key="AskEmailPanel_SubMessage">We'll keep your e-mail confidential.</string>
+    <string key="AskEmailPanel_SpamBox">Receive Days of Wonder news</string>
+    
+    <string key="AccountsShouldMergePanel_Title">Merge your accounts</string>
+    <string key="AccountsShouldMergePanel_Message">You already have another account with that e-mail. We strongly suggest that you merge your accounts. To do so, go to your account details on the Days of Wonder Web site, and click on "Merge Accounts".</string>
+    
+    <string key="FoundEmailPanel_Title">Enter Password</string>
+    <string key="FoundEmailPanel_Message">We found your account. We sent you and e-mail. Please follow its instructions and then type in the password below:</string>
+    <string key="FoundEmailPanel_Placeholder">Password</string>
+    
+    <string key="PasswordSentPanel_Title">Password Sent</string>
+    <string key="PasswordSentPanel_Message">An e-mail with your login and password has been sent to your address.</string>
+    
+    <string key="AccountCreatedPanel_Title">Account Created</string>
+    <string key="AccountCreatedPanel_Message">An e-mail with your login and password has been sent to your address.</string>
+
+    <string key="LinkPanel_Message">Your accounts: Days of Wonder%s are now linked together.</string>
+    <string key="LinkPanel_Sub_Message">, %s</string>
+
+    <string key="WelcomePanel_EmailMessage">Enter your e-mail address.</string>
+    <string key="WelcomePanel_EmailInvalid_Message">Invalid e-mail</string>
+    <string key="WelcomePanel_PasswordMessage">Enter your password.</string>
+
+    <string key="AskEmailPanel_Message">Your Days of Wonder Online account does not contain a valid email. Enter your e-mail address, and you will receive your password.</string>
+    <string key="AskEmailPanel_EmailInvalid_Message">Invalid e-mail</string>
+
+    <string key="LoginSettingsPanel_Title">Login Accounts</string>
+    <string key="LoginSettingsPanel_LogoutButton">Logout</string>
+    <string key="LoginSettingsPanel_GetMyPasswordButton">Get my password</string>
+    <string key="LoginSettingsPanel_EditMyProfileButton">Edit my profile</string>
+    <string key="LoginSettingsPanel_UpdateMyEmailButton">Update my e-mail</string>
+    <string key="LoginSettingsPanel_SupportButton">Support</string>
+    <string key="LoginSettingsPanel_Leave_Title">Leaving Ticket to Ride</string>
+    <string key="LoginSettingsPanel_EditAccount_Message">You will be redirected to the Web browser to see your account.
+Do you want to leave the app?</string>
+    <string key="LoginSettingsPanel_Support_Message">You will be redirected to the Web browser.
+Do you want to leave the app?</string>
+    <string key="LoginSettingsPanel_LinkButton">Link</string>
+    <string key="LoginSettingsPanel_LoginButton">Login</string>
+    <string key="LoginSettingsPanel_LinkErrorTitle">This account is already linked</string>
+    <string key="LoginSettingsPanel_LinkErrorMessage">This %s account is already linked to this other Days of Wonder account: %s</string>
+
+    <string key="SigninInProgressPanel_LabelFormat">Authenticating...</string>
+
+    <string key="PlatformUserIdChooserPanel_Title">Select your account</string>
+
+    <string key="LoginError_Title">Error</string>
+    <string key="LoginError_MessageFormat">An error just occurred: %s</string>
+
+    <string key="EditLoginPanel_Placeholder">Login or e-mail</string>
+    <string key="EditLoginPanel_Message">Please enter your login</string>
+    <string key="EditLoginPanel_LoginExisting_Message">This login already exists</string>
+    <string key="EditLoginPanel_LoginInvalid_Message">Invalid: [A-Z][a-z][0-9]-_</string>
+    
+</strings>

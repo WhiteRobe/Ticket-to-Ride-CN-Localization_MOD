@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+    <string key="T2R_Tuto_ShowVideo_Title">Tutorial Video</string>
+    <string key="T2R_Tuto_ShowVideo_Message">A video explaining the basics of the game is available. Do you want to watch it before entering the interactive tutorial?</string>
+    <string key="T2R_Tuto_ShowVideo_WatchButton">Yes</string>
+    <string key="T2R_Tuto_ShowVideo_SkipVideoButton">No</string>
+    <string key="T2RBubbleTuto_GameStart">Welcome to this interactive tutorial!\n\nSimply follow the instructions written on this board...
+
+...Press the x button or hit this message to go on.</string>
+
+    <string key="T2RBubbleTuto_GoalOfTheGame">In Ticket to Ride, your goal is to score the most points by:
+- Playing TRAIN CARDS from your hand to claim ROUTES on the map
+- Using these routes to connect cities listed on your TICKETS</string>
+
+    <string key="T2R_BubbleTuto_ShowConductorNotes">You can push Geraldine’s help button at any time to read the detailed rules of the game.</string>
+
+    <string key="T2R_BubbleTuto_SelectObjectivesAtStart">So let’s get started! Choose at least %d Ticket(s).
+- Keep a Ticket pressed to highlight the cities it connects.
+- Briefly press a Ticket if you want to select it.
+
+Press Done to confirm your choice.</string>
+
+    <string key="T2R_BubbleTuto_SelectObjectives">Choose at least %d Ticket(s). Briefly press a Ticket to select it.
+
+Press Done to confirm your choice.</string>
+
+    <string key="T2R_BubbleTuto_FirstTurn">Now let’s play your first Turn!</string>
+    <string key="T2RBubbleTuto_IgnoreOpponents">For now, ignore your opponent(s).</string>
+
+    <string key="T2RBubbleTuto_LookMap">Look at the map. We are going to help you claim your first routes
+and complete the Ticket highlighted in blue.</string>
+
+    <string key="T2R_BubbleTuto_PickThisFirstCardWithReason">Pick this card.
+You will need a set of cards that matches the color and number of spaces of the route you want to claim.</string>
+
+    <string key="T2R_BubbleTuto_PickThisSecondCardWithReason">Now pick this card.\nYou may only pick two cards during a single turn.</string>
+
+    <string key="T2R_BubbleTuto_PickThisCard">Now pick this card.</string>
+
+    <string key="T2RBubbleTuto_Locomotive">You just picked a Locomotive card; it acts as a wild.
+You can use it to replace any card of color.
+If you pick a Locomotive card face-up during your draw, it will be the only card you pick this turn.</string>
+
+    <string key="T2R_BubbleTuto_PickCardFromStackWithReason">Now let's make a blind draw from the deck.</string>
+    <string key="T2R_BubbleTuto_PickCardFromStack">Draw a card at random from the blind deck.</string>
+    <string key="T2R_BubbleTuto_PickSecondCard">... and pick another one. Your turn is done!</string>
+
+    <string key="T2RBubbleTuto_SelectMapAndRoute">Now select the map and claim the highlighted route.
+Then choose the color you want to use to claim this route.</string>
+
+    <string key="T2RBubbleTuto_ClaimRoute">Now let’s drop a %s card on the route highlighted to claim it.
+Use the cross-hair that appears in the card’s corner to drag and drop it precisely on this route.</string>
+
+    <string key="T2RBubbleTuto_ClaimRoute_Short">Now drop the %s card on the route highlighted to claim it.
+The longer the route, the more points you earn.</string>
+
+    <string key="T2RBubbleTuto_ClaimRouteAgain">Do the same again for the other routes on your Ticket!
+Beware: If you fail to connect a Ticket's cities by game end, you will lose its points instead of gaining them!</string>
+
+
+    <string key="T2RBubbleTuto_ColoredRouteClaimed">You just claimed a colored route.
+These routes are claimed using a set of cards that all match the route's color.</string>
+
+    <string key="T2RBubbleTuto_ShowScore">Your score is indicated here.</string>
+    <string key="T2RBubbleTuto_ShowRemainingTrains">This is the number of trains you have left.</string>
+
+    <string key="T2RBubbleTuto_ShowOpponentScore">Your opponent's score is located here.</string>
+    <string key="T2RBubbleTuto_ShowOpponentRemainingTrains">Here is the number of trains your opponent has left.</string>
+
+    <string key="T2RBubbleTuto_ShowOpponentNbCards">This is the number of cards in your opponent's hand.</string>
+    <string key="T2RBubbleTuto_ShowOpponentNbTickets">The number of Tickets taken by your opponent is indicated here.</string>
+    <string key="T2R_BubbleTuto_GameTurn">As you may have figured out by now, on each turn you can either draw two Train Cards or claim a Route.</string>
+
+    <string key="T2R_BubbleTuto_FirstTicketDone">Congratulations, this Ticket is done.
+The points indicated on it will be added to your score at game's end!
+
+Successfully completing a Ticket during the game is a secret; keep it to yourself!</string>
+
+    <string key="T2R_BubbleTuto_TryComplete2ndTicket">Try to complete another Ticket now.</string>
+
+    <string key="T2R_BubbleTuto_AllTicketsDone">Congratulations, all your Tickets are done!
+Now you may want to push your luck and draw some new Tickets; simply press the Tickets stack.</string>
+
+    <string key="T2R_BubbleTuto_GameTurnWithTickets">Drawing additional Tickets is the third possible, alternative, action you may choose on your turn.</string>
+    <string key="T2RBubbleTuto_TicketsCycling">You can cycle through your Tickets quickly by pressing the current one.</string>
+
+    <string key="T2R_BubbleTuto_RunningLowOnTrains">You are beginning to run low on Trains.
+Drawing some new Tickets now is probably too risky…</string>
+
+    <string key="T2R_BubbleTuto_BlockYourOpponents">Once you or one of your opponents have 2 trains or less left in reserve, this will trigger the game’s last turn; so try to claim some routes quickly.
+Block your opponents where you can!
+You know enough now. Go ahead and finish the game on your own. Good luck!</string>
+
+    <string key="T2R_BubbleTuto_ThreeLocos">There were 3 locomotive cards face-up so the game automatically wiped all cards out and drew 5 new ones to refresh the draw.</string>
+
+    <string key="T2R_BubbleTuto_EndOfGame">Congratulations, you have just completed your first game!
+
+Now the final scores are calculated, adding points for the Tickets successfully completed and subtracting points for those that failed.
+Players with the longest path also get a 10-point bonus.</string>
+
+    <string key="ColorName_purpleCard">purple</string>
+    <string key="ColorName_whiteCard">white</string>
+    <string key="ColorName_blueCard">blue</string>
+    <string key="ColorName_yellowCard">yellow</string>
+    <string key="ColorName_orangeCard">orange</string>
+    <string key="ColorName_blackCard">black</string>
+    <string key="ColorName_redCard">red</string>
+    <string key="ColorName_greenCard">green</string>
+    <string key="ColorName_locoCard">locomotive</string>
+    <string key="ColorName_tunnelCard">tunnel</string>
+
+    <string key="T2R_Tuto_StopTuto_Title">Stop the Tutorial</string>
+    <string key="T2R_Tuto_StopTuto_Message">Do you really want to continue this game without the tutorial?</string>
+    <string key="T2R_Tuto_StopTuto_QuitButton">Yes</string>
+    <string key="T2R_Tuto_StopTuto_CancelButton">No</string>
+
+    <string key="T2RBubbleTuto_ClaimFerry">Now drop a %s card on the Ferry route highlighted to claim it.
+
+You must play a Locomotive card for each Locomotive symbol on the route.</string>
+    <string key="T2RBubbleTuto_ClaimTunnel">Now drop a %s card on the Tunnel route.
+
+3 cards will be drawn from the top of the Train cards pile.
+For each card revealed whose color matches the color of the cards you played to claim the Tunnel, an additional card of the same color (or a Locomotive) must be played from your hand.</string>
+    <string key="T2RBubbleTuto_FerryClaimed">You have successfully claimed a Ferry route!</string>
+    <string key="T2RBubbleTuto_TunnelClaimed">You have successfully claimed a Tunnel route!</string>
+    <string key="T2RBubbleTuto_RefusedToPayForTunnel">You didn't wish to pay more cards for this Tunnel route.
+
+Try again later!</string>
+    <string key="T2RBubbleTuto_FailedToClaimTunnel">You couldn't pay more cards for this Tunnel route.
+
+Try again next turn!</string>
+
+
+    <!-- Localization kit part 2 - 2015-09-24 -->
+    <string key="T2RBubbleTuto_GreyRouteClaimed">You just claimed a gray route.
+These routes can be claimed using any set of cards of a single color, provided you have at least as many cards of that color as the number of spaces in the route.</string>
+
+</strings>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+    
+    <!-- Achievements Descriptions -->
+    <string key="T2RAchievementDescription_Conductor_Level1">玩 20 局游戏</string>
+    <string key="T2RAchievementDescription_Conductor_Level2">玩 100 局游戏</string>
+    <string key="T2RAchievementDescription_Conductor_Level3">玩 1,000 局游戏</string>
+    <string key="T2RAchievementDescription_Conductor_Level4">玩 5,000 局游戏</string>
+    <string key="T2RAchievementDescription_Conductor_Level5">玩 20,000 局游戏</string>
+    
+    <string key="T2RAchievementDescription_PressureGauge_80">得分 80+</string>
+    <string key="T2RAchievementDescription_PressureGauge_120">得分 120+</string>
+    <string key="T2RAchievementDescription_PressureGauge_160">得分 160+</string>
+    <string key="T2RAchievementDescription_PressureGauge_200">得分 200+</string>
+    <string key="T2RAchievementDescription_PressureGauge_240">得分 240+</string>
+    
+    <string key="T2RAchievementDescription_PunchedTickets_3">3 次胜利 (仅限标准游戏)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_6">6 次胜利 (仅限标准游戏)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_9">9 次胜利 (仅限标准游戏)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_12">12 次胜利 (仅限标准游戏)</string>
+    <string key="T2RAchievementDescription_PunchedTickets_15">15 次胜利 (仅限标准游戏)</string>
+    
+    <string key="T2RAchievementDescription_Hobo">Win without completing any tickets</string>
+    <string key="T2RAchievementDescription_Trestle">Win using no 1 or 2-space routes</string>
+    <string key="T2RAchievementDescription_HandCar">Win without using any locomotives</string>
+    <string key="T2RAchievementDescription_Transcontinental">Win with a continuous route of 45 trains</string>
+    <string key="T2RAchievementDescription_CoalTender">Win while claiming all black routes</string>
+
+    <string key="T2RAchievementDescription_EconomyClass">Win without having more than 10 train cards in hand at any time.</string>
+    <string key="T2RAchievementDescription_PockerPlayer">Win while claiming all &quot;5&quot; routes.</string>
+    <string key="T2RAchievementDescription_OldMovies">Win while only claiming grey routes.</string>
+    <string key="T2RAchievementDescription_RailwayTycoon">Win while playing against 4 Vanderbot Jr (仅限标准游戏).</string>
+    <string key="T2RAchievementDescription_DynamiteJoe">Win without your opponent(s) having completed any of their tickets.</string>
+
+    <string key="T2RAchievementDescription_UrbanTraveller">Win while connecting all 7 Big Cities (in Big Cities variant).</string>
+    <string key="T2RAchievementDescription_FirstTracks">Win with your 5 initial tickets and no others (in Mega variant).</string>
+    <string key="T2RAchievementDescription_ModestEntrepreneur">Win without any of the 2 bonuses (in Mega variant).</string>
+    <string key="T2RAchievementDescription_PressureGauge_300">Score 300+ (in Mega variant).</string>
+    <string key="T2RAchievementDescription_PressureGauge_400">Score 400+ (in Mega variant).</string>
+
+    <string key="T2RAchievementDescription_StationRat">Win while using all 3 Stations.</string>
+    <string key="T2RAchievementDescription_OrientExpress">Win with a Route connecting London, Paris, München, Wien, Budapest, Bucuresti and Constantinople.</string>
+    <string key="T2RAchievementDescription_RomanovTrain">Win with a Route connecting all 11 Russian Empire cities Petrograd - Riga - Wilno - Warszawa - Smolensk - Moskva - Kyiv - Kharkov - Rostov - Sevastopol - Sochi.</string>
+    <string key="T2RAchievementDescription_NationalRailways">Win without your Long Destination Ticket.</string>
+    <string key="T2RAchievementDescription_BalticExplorer">Win with a 45 trains Long Route going through the 8-spaces Tunnel.</string>
+
+    <string key="T2RAchievementDescription_AlphornPlayer">Win without completing any Country-to-country or City-to-Country Ticket.</string>
+    <string key="T2RAchievementDescription_ChocolateExporter">Win while connecting all 4 surrounding Countries.</string>
+    <string key="T2RAchievementDescription_ValleyCommuter">Win without claiming any Tunnel route.</string>
+    <string key="T2RAchievementDescription_TicketPuncher">Win with the deck of Destination Tickets empty at game end.</string>
+    <string key="T2RAchievementDescription_LakeExpress">Win while connecting all the great Swiss Lakes (Geneve or Lausanne, Neuchatel, Interlaken, Zurich, Lugano, Locarno, Kreuzlingen).</string>
+
+    <string key="T2RAchievementDescription_MountainHermit">Win while only claiming Mountain routes.</string>
+    <string key="T2RAchievementDescription_MarcoPolo">Win with the Asian Explorer Bonus connecting 22 Cities.</string>
+    <string key="T2RAchievementDescription_DoubleTrouble">Win while only claiming Double-routes.</string>
+    <string key="T2RAchievementDescription_FasterThanMongolianHorse">Win in 24 turns or less.</string>
+    <string key="T2RAchievementDescription_AsiaPassport">Win all achievements for the Legendary Asia map.</string>
+
+    <!-- Achievements Name -->
+        
+    <string key="T2RAchievementName_Conductor_Level1">售票员 1</string>
+    <string key="T2RAchievementName_Conductor_Level2">售票员 2</string>
+    <string key="T2RAchievementName_Conductor_Level3">售票员 3</string>
+    <string key="T2RAchievementName_Conductor_Level4">售票员 4</string>
+    <string key="T2RAchievementName_Conductor_Level5">售票员 5</string>
+
+    <string key="T2RAchievementName_PressureGauge_80">压力计 80</string>
+    <string key="T2RAchievementName_PressureGauge_120">压力计 120</string>
+    <string key="T2RAchievementName_PressureGauge_160">压力计 160</string>
+    <string key="T2RAchievementName_PressureGauge_200">压力计 200</string>
+    <string key="T2RAchievementName_PressureGauge_240">压力计 240</string>
+
+    <string key="T2RAchievementName_PunchedTickets_3">3 Punched Tickets</string>
+    <string key="T2RAchievementName_PunchedTickets_6">6 Punched Tickets</string>
+    <string key="T2RAchievementName_PunchedTickets_9">9 Punched Tickets</string>
+    <string key="T2RAchievementName_PunchedTickets_12">12 Punched Tickets</string>
+    <string key="T2RAchievementName_PunchedTickets_15">15 Punched Tickets</string>
+
+    <string key="T2RAchievementName_Hobo">Hobo</string>
+    <string key="T2RAchievementName_Trestle">Trestle</string>
+    <string key="T2RAchievementName_HandCar">Hand Car</string>
+    <string key="T2RAchievementName_Transcontinental">Transcontinental</string>
+    <string key="T2RAchievementName_CoalTender">Coal Tender</string>
+
+    <string key="T2RAchievementName_EconomyClass">Economy Class</string>
+    <string key="T2RAchievementName_PockerPlayer">Poker Player</string>
+    <string key="T2RAchievementName_OldMovies">Old Movies</string>
+    <string key="T2RAchievementName_RailwayTycoon">Railway Tycoon</string>
+    <string key="T2RAchievementName_DynamiteJoe">Dynamite Joe</string>
+
+    <string key="T2RAchievementName_UrbanTraveller">Urban Traveller</string>
+    <string key="T2RAchievementName_FirstTracks">First Tracks</string>
+    <string key="T2RAchievementName_ModestEntrepreneur">Modest Entrepreneur</string>
+    <string key="T2RAchievementName_PressureGauge_300">压力计 300</string>
+    <string key="T2RAchievementName_PressureGauge_400">压力计 400</string>
+
+    <string key="T2RAchievementName_StationRat">Station Rat</string>
+    <string key="T2RAchievementName_OrientExpress">Orient Express</string>
+    <string key="T2RAchievementName_RomanovTrain">Romanov Train</string>
+    <string key="T2RAchievementName_NationalRailways">National Railways</string>
+    <string key="T2RAchievementName_BalticExplorer">Baltic Explorer</string>
+
+    <string key="T2RAchievementName_AlphornPlayer">Alphorn Player</string>
+    <string key="T2RAchievementName_ChocolateExporter">Chocolate Exporter</string>
+    <string key="T2RAchievementName_ValleyCommuter">Valley Commuter</string>
+    <string key="T2RAchievementName_TicketPuncher">Ticket Puncher</string>
+    <string key="T2RAchievementName_LakeExpress">Lake Express</string>
+
+    <string key="T2RAchievementName_MountainHermit">Mountain Hermit</string>
+    <string key="T2RAchievementName_MarcoPolo">Marco Polo</string>
+    <string key="T2RAchievementName_DoubleTrouble">Double Trouble</string>
+    <string key="T2RAchievementName_FasterThanMongolianHorse">Faster Than a Mongolian Horse</string>
+    <string key="T2RAchievementName_AsiaPassport">Asia Passport</string>
+
+    <string key="T2RAchievementName_PumpkinMaster">Pumpkin Master</string>
+    <string key="T2RAchievementDescription_PumpkinMaster">Win while claiming all orange routes [Halloween]</string>
+
+    <string key="T2RAchievementName_GhostCatcher">Ghost Catcher</string>
+    <string key="T2RAchievementDescription_GhostCatcher">Catch all 5 Ghosts [Halloween]</string>
+
+    <!-- NEW INDIA Achievements -->
+    <string key="T2RAchievementName_Fakir">Fakir</string>
+    <string key="T2RAchievementDescription_Fakir">Win without any Mandala Bonus</string>
+
+    <string key="T2RAchievementName_HandOfKali">Hand of Kali</string>
+    <string key="T2RAchievementDescription_HandOfKali">Win while preventing all opponent(s) from scoring any Mandala Bonus</string>
+
+    <string key="T2RAchievementName_MandalaMaharaja">Mandala Maharaja</string>
+    <string key="T2RAchievementDescription_MandalaMaharaja">Win with the 5 Mandalas Bonus</string>
+
+    <string key="T2RAchievementName_BritishRajTour">British Raj Tour</string>
+    <string key="T2RAchievementDescription_BritishRajTour">Win while connecting Delhi, Calcutta, Madras &amp; Bombay in a single Mandala</string>
+
+    <string key="T2RAchievementName_IndiaPassport">India Passport</string>
+    <string key="T2RAchievementDescription_IndiaPassport">Win all achievements for the India map</string>
+
+    <!-- Nordic Countries Achievements -->
+    <string key="T2RAchievementName_SantaExpress">Santa Express</string>
+    <string key="T2RAchievementDescription_SantaExpress">Win with the Murmansk/Lieksa route</string>
+
+    <string key="T2RAchievementName_ArcticCircle">Arctic Circle</string>
+    <string key="T2RAchievementDescription_ArcticCircle">Win while connecting together the 7 cities north of the Arctic Circle: Narvik, Kiruna, Rovaniemi, Tromso, Kirkenes, Murmansk, Honningsvag</string>
+
+    <string key="T2RAchievementName_PoleExpress">The Pole Express</string>
+    <string key="T2RAchievementDescription_PoleExpress">Connect Arhus to Honningsvag with 24 trains and win the game</string>
+
+    <string key="T2RAchievementName_LandLines">Land Lines</string>
+    <string key="T2RAchievementDescription_LandLines">Win without using any ferries</string>
+
+    <string key="T2RAchievementName_NordicPassport">Nordic Passport</string>
+    <string key="T2RAchievementDescription_NordicPassport">Win all achievements for the Nordic Countries map</string>
+    
+    <!-- Europa 1912 Achievements -->
+    <string key="T2RAchievementName_MoneyMileage">Money for your Mileage</string>
+    <string key="T2RAchievementDescription_MoneyMileage">Win with at least 3 destinations worth 10 or more points</string>
+
+    <string key="T2RAchievementName_Diagonal">In Diagonal we Trust</string>
+    <string key="T2RAchievementDescription_Diagonal">Win while connecting Cadiz to Petrograd or Edinburgh to Erzurum</string>
+
+    <string key="T2RAchievementName_Mediterranean">Sunny Mediterranean</string>
+    <string key="T2RAchievementDescription_Mediterranean">Win while connecting Cadiz, Barcelona, Marseille, Roma and Palermo</string>
+
+    <string key="T2RAchievementName_Bowtie">Bow Tie Forbidden</string>
+    <string key="T2RAchievementDescription_Bowtie">Win without passing by Zurich, München, Wien, Budapest, Zagrab nor Venezia</string>
+
+    <string key="T2RAchievementName_Mole">The Mole</string>
+    <string key="T2RAchievementDescription_Mole">Win while using at least 23 train cars in tunnels</string>
+
+    <!-- Pennsylvania Achievements -->
+    <string key="T2RAchievementName_FingerInEveryPie">Finger in Every Pie</string>
+    <string key="T2RAchievementDescription_FingerInEveryPie">Win with at least one action of each company</string>
+
+    <string key="T2RAchievementName_ThreeOfAKind">Three of a Kind</string>
+    <string key="T2RAchievementDescription_ThreeOfAKind">Win with actions from these 3 companies only: Erie Lackawanna Railway, Baltimore &amp; Ohio Railroad, Pennsylvania Railroad.</string>
+
+    <string key="T2RAchievementName_Stranger">Stranger</string>
+    <string key="T2RAchievementDescription_Stranger">Win without any action from Pennsylvania Railroad (2 players only)</string>
+
+    <string key="T2RAchievementName_EarlyBird">Early Bird</string>
+    <string key="T2RAchievementDescription_EarlyBird">Win with at least three #1 actions</string>
+
+    <string key="T2RAchievementName_PennsylvaniaPassport">Pennsylvania Passport</string>
+    <string key="T2RAchievementDescription_PennsylvaniaPassport">Win all achievements for the Pennsylvania map</string>
+
+</strings>
+
+<!-- achievements -->

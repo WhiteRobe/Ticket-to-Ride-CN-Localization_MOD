@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+    
+    <string key="Error_CannotResumeGame">无法返回比赛</string>
+    <string key="Error_ClientDisconnected">断开连接</string>
+    <string key="Error_UnknownAuthError">未知认证错误</string>
+    <string key="Error_AccessDenied">被拒绝访问</string>
+    <string key="Error_ServerFull">服务器已满</string>
+    <string key="Error_MaintenanceMode">Maintenance mode</string>
+    <string key="Error_NeedAuthentication">需要授权</string>
+    <string key="Error_UnknownGameType">未知游戏类型</string>
+    <string key="Error_UnknownDevice">未知设备</string>
+    <string key="Error_ServerDisconnected">Server Disconnected</string>
+    <string key="Error_BadVersion">版本过低</string>
+    <string key="Error_GameNotStarted">游戏还没开始</string>
+    <string key="Error_WrongGame">游戏异常</string>
+    <string key="Error_NoLocalPlayer">没有本地玩家</string>
+    <string key="Error_UnknownError">未知错误</string>
+    <string key="Error_NotYourTurn">不是你的回合</string>
+    <string key="Error_UnknownPlayer">未知玩家</string>
+    <string key="Error_UnknownGame">未知的游戏</string>
+    <string key="Error_TooManyOffers">请求过于频繁</string>
+    <string key="Error_UnknownDeviceToken">Unknown device token</string>
+    <string key="Error_ServerError">Server error</string>
+    <string key="Error_NotEnoughKarma">Not enough karma</string>
+    <string key="Error_NotEnoughRankedGamesPlayed">Not enough ranked games player
+(you must play a minimum of 20 ranked games)</string>
+    <string key="Error_NotEnoughRankScore">Not enough Ranking Score
+(or you have not played 20 ranked games)</string>
+    <string key="Error_TooManyGames">Too many games</string>
+    <string key="Error_GameFull">比赛已满</string>
+    <string key="Error_Ignored">您无法加入游戏，因为您已被列入黑名单</string>
+    <string key="Error_PasswordMismatch">密码错误</string>
+    <string key="Error_DuplicatePlayer">Duplicate player</string>
+    <string key="Error_GameDataCorrupted">游戏数据冲突</string>
+    <string key="Error_GameCorrupted">Game is corrupted</string>
+    <string key="Error_Observe_InGame">You are already playing in this game</string>
+    <string key="Error_Observe_NoSuchGame">游戏不存在</string>
+    <string key="Error_Observe_Forbidden">你无法观战</string>
+    <string key="Error_Observe_GameOver">游戏已结束</string>
+    <string key="Error_Join_NotPossible">无法加入游戏</string>
+
+</strings>

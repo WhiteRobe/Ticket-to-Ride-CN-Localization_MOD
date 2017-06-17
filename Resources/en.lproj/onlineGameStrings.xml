@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+
+    <!-- Player Hotswap -->
+    <string key="PlayerHotswap_BecameRobot_Title">玩家离开游戏</string>
+    <string key="PlayerHotswap_BecameRobotBecauseLeft_MessageFormat">%s 离开了游戏.
+        He's now replaced by a robot</string>
+    <string key="PlayerHotswap_BecameRobotBecauseTimeout_MessageFormat">%s 已超时，现由AI接替他操作.</string>
+    <string key="PlayerHotswap_BecameRobotBecauseForfeit_MessageFormat">%s 已弃权，现由AI接替他操作.</string>
+
+    <string key="PlayerHotswap_CameBack_Title">玩家回来了</string>
+    <string key="PlayerHotswap_CameBack_MessageFormat">%s 返回了游戏</string>
+
+    <string key="GameTimeOut_Title">超时</string>
+    <string key="GameTimeOut_MessageForLocalPlayerTimeout">你已超时.
+        AI将代替您进行操作.</string>
+    <string key="GameTimeOut_MessageForLocalPlayerTimeout_GameAborted">你已超时.
+        因此，您输了.</string>
+
+    <string key="OnlineGameInfoController_TimeoutFormat">%s / 玩家</string>
+
+</strings>

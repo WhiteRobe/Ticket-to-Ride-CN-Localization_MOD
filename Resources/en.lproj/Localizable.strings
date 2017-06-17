@@ -1,0 +1,16 @@
+
+// Push notifications localization
+"YOUR_TURN_ACTION" = "Play";
+"YOUR_TURN" = "It is now your turn!";
+
+"YT_ROBOT_ACTION" = "Play";
+"YOUR_TURN_ROBOT" = "It is now your turn!";
+
+"YT_INVITE_ACTION" = "Play";
+"YOUR_TURN_INVITE" = "You have been invited to play!";
+
+"INVITATION_ACTION" = "Play";
+"CONFIRM_INVITATION" = "You have been invited to play!";
+
+"GAME_OVER_ACTION" = "Game Over";
+"GAME_OVER" = "A game just finished";

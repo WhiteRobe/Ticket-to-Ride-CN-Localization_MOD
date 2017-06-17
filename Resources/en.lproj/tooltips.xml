@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<strings>
+    
+    <string key="PlayButton_Tooltip">Play a New Game</string>
+    <string key="TutorialButton_Tooltip">Learn How to Play Ticket to Ride!</string>
+    <string key="MoreButton_Tooltip">More Information about Ticket to Ride...</string>
+    
+    <string key="SettingsButton_Tooltip">Change your preferences, see your login information</string>
+    <string key="HallOfFameButton_Tooltip">See your high scores and your rank in the community</string>
+    <string key="AchievementsButton_Tooltip">Need more challenge?\nSee the achievements you have and don't have yet.</string>
+    <string key="CreditsButton_Tooltip">Who's who</string>
+    <string key="RulesButton_Tooltip">The rules of every map and expansion are available here</string>
+    <string key="ForumButton_Tooltip">Come and meet our community of gamers (discuss with other players, find events, game groups or players near home, etc.)</string>
+
+    <!-- Settings screen -->
+    <string key="Tooltip_HandToPlayButton">Optimize controls for a left-handed or right-handed player</string>
+    <string key="Tooltip_EmoticonGenderButton">Choose the gender of the chat's emoticons</string>
+    <string key="Tooltip_MuteSoundButton">Mute or unmute the sounds</string>
+    <string key="Tooltip_MuteMusicButton">Mute or unmute the music</string>
+    <string key="Tooltip_LoginButton">View your account</string>
+    <string key="Tooltip_WindowedButton">Switch between windowed and fullscreen display</string>
+    <string key="Tooltip_SpeedButton">Change the speed of the cards and of the overall animations</string>
+    <string key="Tooltip_SmallUIButton">Switch between a big and a small interface</string>
+
+    <!-- Play screen -->
+    <string key="Tooltip_FirstPlayerRandomButton">Check this and the first player will be chosen randomly</string>
+    <string key="Tooltip_ResumeGameNoButton">Erase the saved game</string>
+    <string key="Tooltip_ResumeGameYesButton">Return to the saved game</string>
+    <string key="Tooltip_SoloButton">Play against bots, offline, at your pace</string>
+    <string key="Tooltip_OnlineButton">Play online against other players of the community</string>
+    <string key="Tooltip_LocalButton">Play with friends around you, in your LAN</string>
+
+    <!-- Map selection -->
+    <string key="Tooltip_ChangeMapButton">Choose the map to play : US, Europe, Swiss, India, etc.</string>
+    <string key="Tooltip_MapUsButton">Play on the US map. This is the original game</string>
+    <string key="Tooltip_MapUsa1910Button">Play on the US map with the 1910 expansion which brings 3 new game variants : 1910 Classic, Big Cities, Mega Game</string>
+    <string key="Tooltip_MapEuropeButton">Play on the Europe map, with stations and tunnels</string>
+    <string key="Tooltip_MapIndiaButton">Play on the India map and build mandalas</string>
+    <string key="Tooltip_MapLegendaryAsiaButton">Play on the Legendary Asia map</string>
+    <string key="Tooltip_MapSwitzerlandButton">Play on the Switzerland map for a 2 or 3 player game where destinations are the key to victory</string>
+    
+    <!-- Play solo tab -->
+    <string key="Tooltip_SelectBot">Press to change your opponent, or to leave this seat empty</string>
+    <string key="Tooltip_SelectFirstPlayerButton">Check the button and this player will play first</string>
+
+    <!-- Local game tab -->
+    <string key="Tooltip_LeaveLocalGame">Cancel this local game</string>
+
+    <!-- Online tab -->
+    <string key="Tooltip_OnlineJoinTabButton">Show the list of games waiting for players to join, so you can pick one and play</string>
+    <string key="Tooltip_OnlineCreateTabButton">Show the game options, set up your game and gather people</string>
+    <string key="Tooltip_OnlineResumeTabButton">Show the list of games you are part of and resume them to continue playing</string>
+    <string key="Tooltip_OnlineObserveTabButton">Show the on-going games and possibly observe a game</string>
+    <string key="Tooltip_OnlineQuickButton">Quickly start a game, don't bother with settings</string>
+    <string key="Tooltip_OnlineLobbyButton">Create a game for others to join</string>
+    <string key="Tooltip_OnlineBuddiesButton">Invite friends to play your game</string>
+    <string key="Tooltip_OnlineFirstPlayerButton">Choose the first player</string>
+    <string key="Tooltip_OnlineObservableButton">Allow other players to watch the game</string>
+    <string key="Tooltip_OnlineNbPlayersButton">Choose the number of players for the game</string>
+    <string key="Tooltip_OnlineMinimumKarmaButton">Set the minimum level Karma a player must have in order to join the game</string>
+    <string key="Tooltip_OnlinePrivateGameButton">Add a password to your game, so only those who know the password can join you</string>
+    <string key="Tooltip_OnlineRankedGameButton">Activate this option and the game result will affect the players ranking</string>
+    <string key="Tooltip_OnlineObservableByNobodyButton">Check this if you don't want anyone to look at the game while you are playing</string>
+    <string key="Tooltip_OnlineObservableByEverybodyButton">Check this and let anyone watch the game while you are playing</string>
+    <string key="Tooltip_OnlineObservableCardsSwitch">Check this to make your cards visible for observers</string>
+    <string key="Tooltip_OnlineSingleSession">Single session games are real-time games, with AI taking over if a player quits the game or exceeds the allowed time</string>
+
+    <!-- Buddies -->
+    <string key="Tooltip_AddBuddyButton">Players that you add to your buddies list can be invited more easily to your games</string>
+    <string key="Tooltip_AddIgnoreButton">Once you ignore a player, she can not join a game which you created or already joined and you do not see the message she writes in the chat</string>
+
+    <!-- Chat and Players lists -->
+    <string key="Tooltip_ChatTabButton">See and post messages</string>
+    <string key="Tooltip_PlayersTabButton">See who is online right now, manage your list of buddies and your list of ignored players</string>
+    <string key="Tooltip_PlayerInfoBuddyIndicatorButton">This player is in your buddies list. Press here button to change that</string>
+    <string key="Tooltip_PlayerInfoIgnoredIndicatorButton">This player is in your ignored players list. Press here button to change that</string>
+    <string key="Tooltip_PlayerInfoOtherIndicatorButton">This player is not yet in your lists. Press here button to change that</string>
+    <string key="Tooltip_PlayerInfoKarmaIndicator">This is the player's Karma. The lower the karma, the more often this players quits a game before it ends</string>
+    <string key="Tooltip_PlayerInfoInviteButton">Add to the game. Your buddy will be notified of that invitation when you start the game</string>
+    <string key="Tooltip_PlayerInfoRemoveButton">Remove from the game</string>
+    <string key="Tooltip_PlayersListOnlineTabButton">List all the players online right now</string>
+    <string key="Tooltip_PlayersListBuddiesTabButton">List your buddies</string>
+    <string key="Tooltip_PlayersListIgnoreTabButton">List the players that you ignore</string>
+    <string key="Tooltip_PlayersListFilterTextButton">Search for players by name</string>
+
+    <!-- Misc. -->
+    <string key="Tooltip_AutomaticRedeploySwitch">Play additional cards with either color cards or Locomotives, depending on your strategy</string>
+
+    <!-- In game -->
+    <string key="Tooltip_InGame_DoneButton">Keep the selected destination cards</string>
+    <string key="Tooltip_InGame_LeaveButton">Leave the game</string>
+    <string key="Tooltip_InGame_SettingsButton">Edit settings</string>
+    <string key="Tooltip_InGame_RulesButton">Show the map's rules</string>
+    <string key="Tooltip_InGame_NextGameButton">Go to the next multi session game where it's your turn</string>
+    <string key="Tooltip_InGame_InfoButton">Show the game's set up details</string>
+    <string key="Tooltip_EndOfGame_ShowTicketsButton">Show the tickets and the board</string>
+    
+    
+    <!-- Localization kit part 2 - 2015-09-24 -->
+    <string key="ShopButton_Tooltip">See the available tabletop and digital games and expansions here</string>
+
+    <!-- Settings screen -->
+    <string key="Tooltip_ColorButton">Change the color of your avatar. This will also be the color of your train cars.</string>
+
+    <!-- Play screen -->
+    <string key="Tooltip_PassNPlayButton">Play with friends using only this device</string>
+
+    <!-- Map selection -->
+    <string key="Tooltip_AchievementsButton">See the achievements you have and need for this map</string>
+    <string key="Tooltip_AllMapsSwitch">Turn this switch on to see the rankings for all maps</string>
+
+    <!-- Online tab -->
+    <string key="Tooltip_OnlineObservableByBuddiesButton">Check this to allow only the members of your Buddy List to watch the game</string>
+    <string key="Tooltip_OnlineMultipleSession">Multi-session games are a way of playing asynchronously. There is a total time limit set for each player at game setup. You can freely come and go from these games as long as you do not let your allocated clock time run out. Your clock starts running whenever play is passed to you.</string>
+
+    <string key="Tooltip_OnlineMinimumScoreButton">Set the minimum ranking score a player must have in order to join the game</string>
+
+    <!-- Localization Kit 5 -->
+    <!-- Game filters -->
+    <string key="Tooltip_GameFilterRankedGamesButton">Show or hide the competitive games</string>
+    <string key="Tooltip_GameFilterPrivateGamesButton">Show or hide the games that require a password to be joined</string>
+    <string key="Tooltip_GameFilterInstantReplacementGamesButton">Show or hide the games where a player is replaced by a bot when he is disconnected from the server</string>
+
+    <string key="Tooltip_OnlineInstantBotHotswapButton">Players are replaced by robots when they intentionally withdraw or run out of Player Clock time. When this settings is on, a robot will also replace a player that is disconnected from the server. Use this feature for short and fast paced games where all players wants to play in real-time.</string>
+    
+    <!-- Nordic Countries -->
+    <string key="Tooltip_MapNordicCountriesButton">Play on the Nordic Countries map</string>
+
+    <!-- 1912 -->
+    <string key="Tooltip_MapUsa1912Button">Play on the Europe map with the 1912 expansion which brings 3 new game variants : 1912 Expanded, Big Cities, Mega Game</string>
+
+    <string key="Tooltip_PlayersListAllTabButton">Search for players</string>
+
+    <!-- Pennsylvania -->
+    <string key="Tooltip_MapPennsylvaniaButton">Play on the Pennsylvania map</string>
+    <string key="Tooltip_InGame_PickStockShare_ForYou">Take the selected stock share for you</string>
+    <string key="Tooltip_InGame_PickStockShare_ForDummyPlayer">Take the selected stock share for the dummy player</string>
+
+</strings>
+<!-- tooltipLocalizedStringKey -->
